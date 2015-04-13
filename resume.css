@@ -1,0 +1,25 @@
+/* clearfix */
+.toc:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.row {
+  display: block;
+}
+
+.category {
+  width: 15%;
+  display: inline-block;
+  right: 35%;
+  text-align: right;
+  vertical-align: top;
+  margin-right: 3%;
+}
+
+.col2 {
+  width: 75%;
+  display: inline-block;
+  right: 5px;
+}
