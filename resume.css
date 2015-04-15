@@ -43,3 +43,8 @@ h1 {
 .item:not(:first-of-type) {
   margin-top: 1em;
 }
+
+body {
+  /*  font-family: Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', serif;*/
+  font-family: Georgia, Times, 'Times New Roman', serif;
+}
