@@ -63,6 +63,17 @@
           pulling out write-ins.</li>
         </ul>
       </section> <!-- /theszies -->
+      
+      <section class="item">
+        <b>tarsnap-cron</b> -
+          <a href="https://github.com/pronoiac/tarsnap-cron">GitHub</a>
+        <ul>
+          <li>Tarsnap's an automated offsite backup tool, lacking scheduling. 
+          I started from scheduling work by Tim Bishop and overhauled it.</li>
+          <li>I separated the archiving and the pruning of old archives; this works with Tarsnap features to let you have servers that cannot delete their backups, even if they're hacked.</li>
+          <li>I moved configuration from hardcoded values to files, and refactored the scheduling code; at first, it allowed for daily, weekly, and monthly backups, and I added hourly backups.</li>
+        </ul>
+      </section><!-- /tarsnap-cron -->
     </section><!-- /col2 -->
   </section><!-- /projects -->
 
