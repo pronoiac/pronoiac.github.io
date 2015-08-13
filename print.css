@@ -10,10 +10,6 @@ a:visited {
     color: blue;
 }
 
-@page {
-    margin: 2cm;
-}
-
 .category {
   width: auto;
   display: block;
