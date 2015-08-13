@@ -1,0 +1,27 @@
+@import url("resume.css");
+
+/* unvisited link */
+a:link {
+    color: blue;
+}
+
+/* visited link */
+a:visited {
+    color: blue;
+}
+
+@page {
+    margin: 2cm;
+}
+
+.category {
+  width: auto;
+  display: block;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.col2 {
+  width: auto;
+  padding-left: 5%;
+}
