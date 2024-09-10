@@ -11,13 +11,9 @@ a:visited {
 }
 
 .category {
-  width: auto;
-  display: block;
   text-align: left;
-  margin-bottom: 0;
 }
 
 .col2 {
-  width: auto;
   padding-left: 5%;
 }

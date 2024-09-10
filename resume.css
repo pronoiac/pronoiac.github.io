@@ -35,6 +35,10 @@ h1 {
   margin-bottom: auto;
 }
 
+h2 {
+  font-size: 1.2em;
+}
+
 .contact {
   text-align: center;
   margin-top: .5em;
